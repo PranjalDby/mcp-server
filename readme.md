@@ -63,14 +63,7 @@ docker run -p 3000:3000 mcp_demo
 
 ## API Usage
 
-The server exposes RESTful APIs. By default, it runs on `http://localhost:3000`.
-
-### Example Endpoints
-
-- `GET /api/components` — List all components
-- `POST /api/components` — Add a new component
-- `PUT /api/components/:id` — Update a component
-- `DELETE /api/components/:id` — Remove a component
+The server exposes RESTful APIs. By default, it runs on `http://localhost:8080`.
 
 Refer to the source code or API documentation for more details.
 
