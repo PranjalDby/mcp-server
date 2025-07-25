@@ -1,0 +1,4 @@
+./mcp_demo/__pycache__
+./mcp_demo/.env
+./mcp_demo/client_side.py
+./mcp_demo/mcp.json
