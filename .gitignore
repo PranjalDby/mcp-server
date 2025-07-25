@@ -1,4 +1,16 @@
+# Byte-compiled / cache files
 __pycache__/
+*.py[cod]
+
+# Environment variables
 .env
-client_side.py
+
+# Local configuration files
 mcp.json
+
+# Python script to ignore
+client_side.py
+
+# OS generated files
+.DS_Store
+Thumbs.db
