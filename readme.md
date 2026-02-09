@@ -1,6 +1,38 @@
-# MCP Demo Server
+🧠 MCP Server with Tavily Web Search Integration
 
-This project is a demo server for MCP (Modular Control Platform). It provides a backend API for managing and controlling modular components.
+mcp-server is a lightweight Model Context Protocol (MCP) server that integrates the Tavily Search API to enable real-time internet access for Large Language Models (LLMs). It allows LLMs to fetch up-to-date, factual information from the web instead of relying solely on static training data.
+
+This server acts as a bridge between LLMs and live web data, making it ideal for applications that require current news, recent documentation, live trends, or fast-changing technical information.
+
+✨ Key Features
+
+🔗 MCP-compliant server for seamless LLM integration
+
+🌐 Real-time web search powered by the Tavily API
+
+🤖 Designed specifically for LLMs needing fresh, current information
+
+⚡ Simple, minimal Python implementation
+
+🧩 Easy to extend with additional tools or data sources
+
+🛠 Use Cases
+
+LLM agents with live internet search
+
+AI assistants requiring recent or time-sensitive data
+
+Research and Q&A systems beyond training-cutoff limits
+
+Developer tools that need real-world, current context
+
+📦 Tech Stack
+
+Python
+
+Model Context Protocol (MCP)
+
+Tavily Search API
 
 ## Prerequisites
 
